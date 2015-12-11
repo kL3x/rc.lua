@@ -99,7 +99,7 @@ layouts =
 -- {{{ Tags
 -- Define a tag table which hold all screen tags.
 tags = {
-   names  = { "start", "www", "term", "cssh", "office", "data", 7, 8, 9 },
+   names  = { "start", "www", "term", "cssh", "office", "data", "pwd", 8, 9 },
    layout = { layouts[12], layouts[9], layouts[1], layouts[6], layouts[12],
               layouts[12], layouts[1], layouts[1], layouts[12]
  }}
